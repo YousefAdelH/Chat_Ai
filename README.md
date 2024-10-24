@@ -44,4 +44,3 @@
   <li>get State Management</li>
   <!-- Add more technologies... -->
 </ul>
->>>>>>> fc3c14cee4010d08d953c69a7c6ce75b8f263b0a
